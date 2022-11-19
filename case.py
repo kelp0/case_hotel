@@ -1,3 +1,4 @@
+#Работу выполинили Лысенко Матвей 80%, Ячин Денис 45%
 from random import randint
 
 #Reading a hotel information file
